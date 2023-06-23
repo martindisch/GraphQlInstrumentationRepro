@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Datadog.Trace" Version="2.32.0" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="13.2.1" />
   </ItemGroup>
 
 </Project>
